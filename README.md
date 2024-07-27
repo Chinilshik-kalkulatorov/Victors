@@ -14,24 +14,24 @@ This project contains Python code for performing basic vector operations using N
 ## How to Use
 
 1. Clone the repository:
-    \"""
+    ```bash
     git clone https://github.com/yourusername/Victors.git
-    \"""
+    ```
 
 2. Navigate to the project directory:
-    \"""
+    ```bash
     cd Victors
-    \"""
+    ```
 
 3. Install the dependencies:
-    \"""
+    ```bash
     pip install -r requirements.txt
-    \"""
+    ```
 
 4. Run the Python script:
-    \"""
+    ```bash
     python vector_operations.py
-    \"""
+    ```
 
 5. Follow the prompts to input the elements of the vectors. The script will then display the results of various vector operations.
 
@@ -40,13 +40,13 @@ This project contains Python code for performing basic vector operations using N
 After running the script, you will be prompted to enter the elements of two vectors. The script will then display the results of various vector operations.
 
 ### Sample Input
-\"""
+```
 Enter the first vector: 1 2 3
 Enter the second vector: 4 5 6
-\"""
+```
 
 ### Sample Output
-\"""
+```
 Vector 1: [1. 2. 3.]
 Vector 2: [4. 5. 6.]
 
@@ -56,7 +56,7 @@ Dot product (v1 . v2): 32.0
 Cross product (v1 x v2): [-3.  6. -3.]
 Magnitude of vector 1 (|v1|): 3.7416573867739413
 Magnitude of vector 2 (|v2|): 8.774964387392123
-\"""
+```
 
 ## Dependencies
 
@@ -64,16 +64,10 @@ Magnitude of vector 2 (|v2|): 8.774964387392123
 - NumPy
 
 Install the dependencies using pip:
-\"""
+```bash
 pip install numpy
-\"""
+```
 
 ## License
 
 This project is licensed under the MIT License.
-"""
-
-with open("/mnt/data/README.txt", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README.txt"
