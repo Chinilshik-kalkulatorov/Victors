@@ -15,7 +15,7 @@ This project contains Python code for performing basic vector operations using N
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Victors.git
+    git clone https://github.com/Chinilshik-kalkulatorov/Victors.git
     ```
 
 2. Navigate to the project directory:
