@@ -1,4 +1,4 @@
-readme_content = """# Victors
+# Victors
 ## Basic Vector Operations with Checkmarks and Crosses
 
 This project contains Python code for performing basic vector operations using NumPy. The user can input the elements of two vectors from the keyboard. The script also provides the results of various vector operations.
